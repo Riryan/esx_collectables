@@ -1,7 +1,7 @@
 --
 -- Table structure for table `user_collectables`
 --
-CREATE TABLE `user_collectables` (
+CREATE TABLE `collectables` (
     `identifier` varchar(50) NOT NULL,
     `letter_scraps` text NOT NULL,
     `sub_parts` text NOT NULL,
